@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Codryy
 - 👀 I’m interested in programming, games, game development, full stack development
-- 🌱 I’m currently learning programming languages such as Python, C++, C, JavaScript and Java
-- 💞️ I’m looking to collaborate on a variety of project, at the moment I'm focusing on game dev
+- 🌱 I’m currently learning programming languages such as Python ( through hackademy courses ), C++ ( through personal projects ), JavaScript, HTML5 and CSS3 ( through an optional web development course). I will post my journey  with all these programming languages here on github. 
+- 💞️ I would like to collaborate on various programming projects or game dev projects
 - 📫 How to reach me: adicodrianu@gmail.com
 
 <!---
